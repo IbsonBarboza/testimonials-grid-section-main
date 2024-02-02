@@ -569,6 +569,16 @@ html {
   margin-bottom: 1.25rem;
 }
 
+.my-20{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.my-40{
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
 .flex{
   display: flex;
 }
@@ -652,6 +662,11 @@ html {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-gray-200{
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
+}
+
 .p-6{
   padding: 1.5rem;
 }
@@ -724,6 +739,11 @@ html {
     margin-right: 13rem;
   }
 
+  .md\:mx-60{
+    margin-left: 15rem;
+    margin-right: 15rem;
+  }
+
   .md\:w-96{
     width: 24rem;
   }
@@ -774,6 +794,38 @@ html {
 
   .md\:max-w-\[1250px\]{
     max-width: 1250px;
+  }
+
+  .md\:max-w-\[1350px\]{
+    max-width: 1350px;
+  }
+
+  .md\:max-w-\[1300px\]{
+    max-width: 1300px;
+  }
+
+  .md\:max-w-\[1310px\]{
+    max-width: 1310px;
+  }
+
+  .md\:max-w-\[1320px\]{
+    max-width: 1320px;
+  }
+
+  .md\:max-w-\[1330px\]{
+    max-width: 1330px;
+  }
+
+  .md\:max-w-\[1340px\]{
+    max-width: 1340px;
+  }
+
+  .md\:max-w-\[1290px\]{
+    max-width: 1290px;
+  }
+
+  .md\:max-w-\[1280px\]{
+    max-width: 1280px;
   }
 
   .md\:grid-flow-row-dense{
